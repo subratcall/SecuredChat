@@ -1,0 +1,2 @@
+def encrypt(msg):
+    pass
